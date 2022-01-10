@@ -1,4 +1,4 @@
-# Inbound EDI Tutorial
+# Inbound EDI Tutorial (in-depth)
 
 ## I. Introduction
 
