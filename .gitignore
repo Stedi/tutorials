@@ -1,0 +1,12 @@
+.history
+.prettierignore
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+node_modules
+.terraform.lock.hcl
+package-lock.json
+. prettierrc
+.prettierrc
+outputs.tf
+.cache_ggshield
